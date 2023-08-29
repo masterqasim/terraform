@@ -1,0 +1,5 @@
+Defined in code 
+stored in source control 
+declarative or imperative
+idempotent - means it will generate the same result each time if its already created then it will do nothing even if you deploy again the same code 
+push or pull - terraform is a push type environment
