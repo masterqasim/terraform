@@ -1,0 +1,14 @@
+Tasks:
+initialize our configuration
+plan the deployment
+apply the plan
+
+Prerequisites:
+aws account
+aws access key
+
+work flow:
+terraform init
+terraform plan
+terraform apply
+terraform destroy
